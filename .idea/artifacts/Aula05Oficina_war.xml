@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Aula05Oficina:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Aula05Oficina</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Aula05Oficina-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Aula05Oficina:war exploded" />
+    </root>
+  </artifact>
+</component>
